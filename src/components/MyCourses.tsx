@@ -6,6 +6,7 @@ import Image from "next/image";
 import myCoursesData from "@/data/myCoursesData.json";
 
 interface Course {
+  id: string,
   title: string;
   description: string;
   image: string;
@@ -22,7 +23,7 @@ export default function MyCourses() {
       </div>
       <div className="flex flex-wrap justify-center gap-8">
         {myCoursesData.map((course: Course) => (
-          <BackgroundGradient className=" rounded-[22px] max-w-sm p-4 sm:p-10 bg-white dark:bg-zinc-900">
+          <BackgroundGradient key={course.id} className=" rounded-[22px] max-w-sm p-4 sm:p-10 bg-white dark:bg-zinc-900">
             <p className="text-base sm:text-xl text-black mt-4 mb-2 dark:text-neutral-200">
               {course.title}
             </p>
