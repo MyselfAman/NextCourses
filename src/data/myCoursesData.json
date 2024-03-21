@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Introduction to Web Development",
+        "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+        "image": "https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/",
+        "duration": "6 weeks",
+        "level": "Beginner"
+    },
+    {
+        "title": "Graphic Design Essentials",
+        "description": "Master the essential skills and tools for graphic design.",
+        "image": "https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/",
+        "duration": "4 weeks",
+        "level": "Beginner"
+    },
+    {
+        "title": "Machine Learning Fundamentals",
+        "description": "Explore the fundamentals of machine learning and its applications.",
+        "image": "https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/",
+        "duration": "8 weeks",
+        "level": "Intermediate"
+    },
+    {
+        "title": "Data Science with Python",
+        "description": "Learn data analysis, visualization, and machine learning with Python.",
+        "image": "https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/",
+        "duration": "12 weeks",
+        "level": "Advanced"
+    },
+    {
+        "title": "Mobile App Development with React Native",
+        "description": "Build mobile applications using React Native framework.",
+        "image": "https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/",
+        "duration": "10 weeks",
+        "level": "Intermediate"
+    },
+
+    {
+        "title": "Graphic Design Essentials",
+        "description": "Master the essential skills and tools for graphic design.",
+        "image": "https://www.google.com/search?q=courses+thumbnail+image+url&sca_esv=58652087346d5a22&udm=2&biw=1536&bih=703&sxsrf=ACQVn0-WcH5VnEo3LNJxv8MJay9CD5rGow%3A1710943038909&ei=Puv6Zdv4Nrfi2roPzpqc4Ao&ved=0ahUKEwjbj8LA_4KFAxU3sVYBHU4NB6wQ4dUDCBA&uact=5&oq=courses+thumbnail+image+url&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2NvdXJzZXMgdGh1bWJuYWlsIGltYWdlIHVybEiMFVCYAljUEnABeACQAQCYAf8BoAGjDKoBBTAuNy4zuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAfCAw&sclient=gws-wiz-serp#vhid=lWHH9w6LHVxAQM&vssid=mosaic",
+        "duration": "4 weeks",
+        "level": "Beginner"
+    }
+]
